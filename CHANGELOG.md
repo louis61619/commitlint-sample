@@ -1,6 +1,13 @@
 # Changelog
   custom header
 
+## [1.6.0](https://github.com/louis61619/commitlint-sample/compare/v1.5.5...v1.6.0) (2023-02-08)
+
+
+### Features
+
+* AAA-393939 all complete ([81e1024](https://github.com/louis61619/commitlint-sample/commit/81e1024235fae4d09d77cf7f3af67f379b12605d))
+
 ### [1.5.5](///compare/v1.5.4...v1.5.5) (2023-02-08)
 
 ### [1.5.4](///compare/v1.5.3...v1.5.4) (2023-02-08)
