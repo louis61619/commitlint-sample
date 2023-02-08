@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](///compare/v1.1.0...v1.2.0) (2023-02-08)
+
+
+### Features
+
+* AAA-3939 fjeiw 7832f98
+
 ## [1.1.0](///compare/v1.0.1...v1.1.0) (2023-02-08)
 
 
