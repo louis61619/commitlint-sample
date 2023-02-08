@@ -3,6 +3,7 @@ const detectIndent = require('detect-indent')
 const detectNewline = require('detect-newline')
 
 module.exports.readVersion = function (contents) {
+  console.log(contents, 'fjewoij')
   return JSON.parse(contents).tracker.package.version;
 }
 
@@ -11,5 +12,8 @@ module.exports.writeVersion = function (contents, version) {
   let indent = detectIndent(contents).indent
   let newline = detectNewline(contents)
   json.tracker.package.version = version
+
+  console.log(contents, 'fjeoifwjo', version)
+
   return stringifyPackage(json, indent, newline)
 }
