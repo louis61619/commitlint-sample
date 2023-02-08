@@ -1,6 +1,13 @@
 # Changelog
   custom header
 
+## [1.7.0](https://github.com/louis61619/commitlint-sample/compare/v1.6.0...v1.7.0) (2023-02-08)
+
+
+### Features
+
+* AIOI-9393 readme modify ([e4945a7](https://github.com/louis61619/commitlint-sample/commit/e4945a74aee2c2e04eb86ef2abca6e1e837d90cc))
+
 ## [1.6.0](https://github.com/louis61619/commitlint-sample/compare/v1.5.5...v1.6.0) (2023-02-08)
 
 
