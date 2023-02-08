@@ -1,5 +1,8 @@
 # Changelog
-  custom header
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.5.4](///compare/v1.5.3...v1.5.4) (2023-02-08)
 
 ### [1.5.3](///compare/v1.5.2...v1.5.3) (2023-02-08)
 
